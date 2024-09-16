@@ -1,0 +1,11 @@
+
+# Folders
+data
+!data/.gitkeep
+
+execs
+checkpoints
+output_test.txt
+test_results
+results
+result.txt
